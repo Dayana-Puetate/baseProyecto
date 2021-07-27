@@ -1,0 +1,25 @@
+section{
+    display: flex;
+    align-items: center;
+}
+.left-column{
+    width: 50%;
+}
+.left-column img{
+    width: 100%;
+}
+.right-column{
+    width: 50%;
+}
+.loginForm{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.loginForm h1{
+     font-size: 3rem;
+     color: black;
+     margin-bottom: 20px;
+     text-align: center;
+}
